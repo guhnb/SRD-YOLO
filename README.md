@@ -1,7 +1,7 @@
 # SRD-YOLO
-#data
+# data
 Import the images and labels of corn and weeds.
-#model
+# model
 The network structure of the SRD-YOLO model
-#weights
+# weights
 Training weights of the SRD-YOLO model

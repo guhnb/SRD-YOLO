@@ -1,0 +1,224 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sedge",
+      "points": [
+        [
+          68.71794871794873,
+          4.615384615384616
+        ],
+        [
+          234.8717948717949,
+          257.94871794871796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          185.12820512820517,
+          130.25641025641025
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          272.8205128205128,
+          234.87179487179486
+        ],
+        [
+          324.61538461538464,
+          282.5641025641026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          301.53846153846155,
+          257.43589743589746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          364.1025641025641,
+          138.46153846153845
+        ],
+        [
+          408.71794871794873,
+          185.1282051282051
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          386.66666666666663,
+          161.02564102564102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          428.71794871794873,
+          134.35897435897434
+        ],
+        [
+          508.71794871794873,
+          235.3846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          480.0,
+          189.23076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          449.23076923076917,
+          205.64102564102564
+        ],
+        [
+          540.5128205128206,
+          295.8974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          489.7435897435897,
+          222.56410256410257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          548.7179487179487,
+          201.53846153846152
+        ],
+        [
+          639.0,
+          295.901057511227
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          605.6410256410256,
+          245.64102564102564
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          329.2307692307693,
+          428.71794871794873
+        ],
+        [
+          392.8205128205128,
+          475.8974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          3.07692307692308,
+          182.05128205128204
+        ],
+        [
+          133.84615384615387,
+          475.3846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\75_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

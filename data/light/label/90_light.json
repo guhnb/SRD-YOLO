@@ -1,0 +1,70 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          328.2051282051282,
+          245.1282051282051
+        ],
+        [
+          381.53846153846155,
+          353.84615384615387
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          356.9230769230769,
+          301.02564102564105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          291.7948717948718,
+          80.51282051282051
+        ],
+        [
+          334.8717948717949,
+          122.05128205128206
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          314.35897435897436,
+          97.43589743589745
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\90_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

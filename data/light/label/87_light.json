@@ -1,0 +1,70 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          154.35897435897436,
+          105.12820512820514
+        ],
+        [
+          220.51282051282053,
+          170.25641025641025
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          173.84615384615387,
+          123.07692307692308
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          199.48717948717947,
+          210.76923076923077
+        ],
+        [
+          272.30769230769226,
+          260.51282051282055
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          234.3589743589744,
+          232.3076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\87_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

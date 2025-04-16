@@ -1,0 +1,57 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          191.79487179487182,
+          187.6923076923077
+        ],
+        [
+          269.2307692307692,
+          274.87179487179486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          226.15384615384613,
+          236.4102564102564
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          228.71794871794873,
+          3.076923076923077
+        ],
+        [
+          475.89743589743586,
+          233.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\480.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

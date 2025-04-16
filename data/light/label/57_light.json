@@ -1,0 +1,374 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "purslane",
+      "points": [
+        [
+          160.06944444444446,
+          186.11111111111111
+        ],
+        [
+          246.875,
+          259.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          201.73611111111111,
+          220.83333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          138.89952153110048,
+          157.41626794258374
+        ],
+        [
+          183.39712918660285,
+          192.3444976076555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          159.95215311004785,
+          183.25358851674642
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          115.93301435406698,
+          195.69377990430624
+        ],
+        [
+          147.99043062200957,
+          213.39712918660288
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          134.5933014354067,
+          203.34928229665073
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "eclipta prostrata",
+      "points": [
+        [
+          96.79425837320574,
+          159.33014354066987
+        ],
+        [
+          125.5023923444976,
+          187.08133971291866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          112.10526315789471,
+          174.16267942583733
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          204.44976076555022,
+          38.27751196172249
+        ],
+        [
+          229.33014354066987,
+          72.2488038277512
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          214.01913875598083,
+          57.41626794258374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          342.2488038277512,
+          225.35885167464116
+        ],
+        [
+          461.3875598086124,
+          376.07655502392345
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          402.53588516746413,
+          297.12918660287085
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          401.57894736842104,
+          325.3588516746412
+        ],
+        [
+          435.07177033492826,
+          349.7607655502393
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          417.36842105263156,
+          339.2344497607656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          378.6124401913876,
+          357.89473684210526
+        ],
+        [
+          407.32057416267946,
+          388.51674641148327
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          395.83732057416273,
+          370.8133971291866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          159.4736842105263,
+          307.177033492823
+        ],
+        [
+          199.1866028708134,
+          338.75598086124404
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          181.00478468899522,
+          323.92344497607655
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          148.94736842105263,
+          374.1626794258373
+        ],
+        [
+          166.65071770334927,
+          391.866028708134
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          156.60287081339712,
+          383.732057416268
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          514.976076555024,
+          92.82296650717704
+        ],
+        [
+          636.0287081339713,
+          276.555023923445
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          93.92344497607655,
+          31.578947368421055
+        ],
+        [
+          120.23923444976074,
+          64.11483253588517
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          103.49282296650716,
+          49.282296650717704
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          32.20095693779902,
+          1.4354066985645935
+        ],
+        [
+          140.8133971291866,
+          102.8708133971292
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\57_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

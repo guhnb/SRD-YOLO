@@ -1,0 +1,280 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          235.38461538461542,
+          104.1025641025641
+        ],
+        [
+          318.974358974359,
+          173.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          275.8974358974359,
+          136.92307692307693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          256.9230769230769,
+          215.8974358974359
+        ],
+        [
+          280.0,
+          238.46153846153848
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          264.61538461538464,
+          228.71794871794873
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          54.358974358974365,
+          214.35897435897436
+        ],
+        [
+          301.53846153846155,
+          350.2564102564103
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          165.12820512820514,
+          269.2307692307692
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          133.84615384615384,
+          321.53846153846155
+        ],
+        [
+          218.46153846153845,
+          403.0769230769231
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          178.974358974359,
+          360.51282051282055
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          168.2051282051282,
+          403.0769230769231
+        ],
+        [
+          207.17948717948718,
+          449.7435897435898
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          186.15384615384613,
+          418.974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          304.61538461538464,
+          63.5897435897436
+        ],
+        [
+          338.46153846153845,
+          96.41025641025641
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          323.5897435897436,
+          76.92307692307692
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          324.1025641025641,
+          21.025641025641026
+        ],
+        [
+          349.7435897435898,
+          46.15384615384615
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          338.974358974359,
+          39.48717948717949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          215.8974358974359,
+          338.974358974359
+        ],
+        [
+          240.5128205128205,
+          363.0769230769231
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          228.20512820512823,
+          347.1794871794872
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          468.7179487179487,
+          152.30769230769232
+        ],
+        [
+          636.9230769230769,
+          216.92307692307693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          614.8717948717949,
+          197.94871794871796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\473.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

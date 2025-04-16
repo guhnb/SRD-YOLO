@@ -1,0 +1,220 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "purslane",
+      "points": [
+        [
+          246.66666666666666,
+          271.2820512820513
+        ],
+        [
+          349.7435897435897,
+          414.35897435897436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          267.69230769230774,
+          341.02564102564105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          163.0769230769231,
+          42.56410256410257
+        ],
+        [
+          273.8461538461538,
+          114.35897435897436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          221.53846153846158,
+          77.43589743589745
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          404.1025641025641,
+          407.1794871794872
+        ],
+        [
+          441.025641025641,
+          439.4871794871795
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          424.61538461538464,
+          421.53846153846155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          425.1282051282052,
+          360.0
+        ],
+        [
+          463.0769230769231,
+          388.71794871794873
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          447.69230769230774,
+          376.4102564102564
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          494.8717948717948,
+          284.61538461538464
+        ],
+        [
+          513.3333333333334,
+          316.4102564102564
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          505.64102564102564,
+          295.3846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          393.8461538461538,
+          85.64102564102565
+        ],
+        [
+          427.69230769230774,
+          129.23076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          418.974358974359,
+          104.61538461538461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          352.3076923076924,
+          17.435897435897434
+        ],
+        [
+          417.948717948718,
+          83.58974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          390.76923076923083,
+          31.794871794871792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\70_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

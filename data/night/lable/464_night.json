@@ -1,0 +1,70 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          353.33333333333337,
+          63.58974358974359
+        ],
+        [
+          454.35897435897436,
+          176.9230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          395.8974358974359,
+          136.9230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          516.9230769230769,
+          416.92307692307696
+        ],
+        [
+          537.4358974358975,
+          443.5897435897436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          525.6410256410256,
+          428.20512820512823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\82.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

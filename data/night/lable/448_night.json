@@ -1,0 +1,160 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          340.51282051282055,
+          275.8974358974359
+        ],
+        [
+          387.1794871794872,
+          322.5641025641026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          363.0769230769231,
+          304.10256410256414
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          134.35897435897436,
+          251.28205128205127
+        ],
+        [
+          197.43589743589743,
+          328.20512820512823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          158.46153846153848,
+          283.0769230769231
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          162.56410256410257,
+          371.7948717948718
+        ],
+        [
+          187.6923076923077,
+          422.0512820512821
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          170.25641025641028,
+          396.4102564102564
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          475.38461538461536,
+          94.87179487179488
+        ],
+        [
+          499.48717948717945,
+          127.6923076923077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          485.1282051282051,
+          108.2051282051282
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          283.0769230769231,
+          118.46153846153847
+        ],
+        [
+          301.025641025641,
+          142.56410256410254
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          291.7948717948718,
+          128.2051282051282
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\68.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

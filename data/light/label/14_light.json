@@ -1,0 +1,190 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "purslane",
+      "points": [
+        [
+          357.948717948718,
+          2.0512820512820515
+        ],
+        [
+          387.1794871794872,
+          42.56410256410257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          370.76923076923083,
+          24.102564102564102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "purslane",
+      "points": [
+        [
+          264.61538461538464,
+          19.487179487179485
+        ],
+        [
+          359.48717948717945,
+          73.84615384615385
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          308.2051282051282,
+          39.48717948717949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          310.76923076923083,
+          260.51282051282055
+        ],
+        [
+          354.35897435897436,
+          300.51282051282055
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          335.38461538461536,
+          279.4871794871795
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          83.58974358974359,
+          422.5641025641026
+        ],
+        [
+          115.89743589743591,
+          464.61538461538464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          99.4871794871795,
+          442.0512820512821
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          123.58974358974359,
+          408.71794871794873
+        ],
+        [
+          147.17948717948718,
+          432.8205128205129
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          137.43589743589746,
+          421.02564102564105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          106.66666666666669,
+          138.46153846153845
+        ],
+        [
+          136.4102564102564,
+          167.17948717948718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          119.4871794871795,
+          150.25641025641025
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\14_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

@@ -1,0 +1,57 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          181.53846153846158,
+          141.02564102564102
+        ],
+        [
+          327.1794871794872,
+          281.53846153846155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          250.7692307692308,
+          201.02564102564102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          4.102564102564116,
+          295.8974358974359
+        ],
+        [
+          240.51282051282053,
+          450.2564102564103
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\99_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

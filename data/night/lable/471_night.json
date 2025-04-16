@@ -1,0 +1,220 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sedge",
+      "points": [
+        [
+          155.3846153846154,
+          43.07692307692308
+        ],
+        [
+          275.38461538461536,
+          202.56410256410257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          235.89743589743588,
+          131.28205128205127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "purslane",
+      "points": [
+        [
+          264.61538461538464,
+          171.28205128205127
+        ],
+        [
+          392.8205128205128,
+          244.1025641025641
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          343.58974358974365,
+          210.76923076923077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          287.1794871794872,
+          22.05128205128205
+        ],
+        [
+          516.4102564102564,
+          286.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          380.51282051282055,
+          202.56410256410257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          341.025641025641,
+          360.0
+        ],
+        [
+          570.2564102564103,
+          478.974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          454.8717948717948,
+          456.4102564102564
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "purslane",
+      "points": [
+        [
+          27.692307692307693,
+          151.28205128205127
+        ],
+        [
+          80.0,
+          176.9230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          55.38461538461539,
+          166.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          37.948717948717956,
+          113.84615384615385
+        ],
+        [
+          78.46153846153848,
+          154.35897435897434
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          63.58974358974359,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          232.3076923076923,
+          293.84615384615387
+        ],
+        [
+          247.6923076923077,
+          315.8974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          238.97435897435898,
+          304.61538461538464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\89.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

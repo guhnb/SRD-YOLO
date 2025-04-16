@@ -1,0 +1,40 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          173.84615384615387,
+          322.5641025641026
+        ],
+        [
+          275.8974358974359,
+          422.5641025641026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          215.3846153846154,
+          382.0512820512821
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\83.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

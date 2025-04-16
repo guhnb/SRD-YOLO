@@ -1,0 +1,250 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          287.69230769230774,
+          63.07692307692308
+        ],
+        [
+          364.1025641025641,
+          108.2051282051282
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          331.7948717948718,
+          83.07692307692308
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          300.51282051282055,
+          104.61538461538461
+        ],
+        [
+          398.974358974359,
+          147.17948717948718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          345.64102564102564,
+          117.94871794871796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "eclipta prostrata",
+      "points": [
+        [
+          262.0512820512821,
+          198.46153846153845
+        ],
+        [
+          300.0,
+          225.1282051282051
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          281.53846153846155,
+          212.82051282051282
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "green bristlegrass",
+      "points": [
+        [
+          313.33333333333337,
+          293.84615384615387
+        ],
+        [
+          403.58974358974365,
+          345.12820512820514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          359.48717948717945,
+          319.4871794871795
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          280.0,
+          266.6666666666667
+        ],
+        [
+          319.48717948717945,
+          312.8205128205128
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          303.0769230769231,
+          291.7948717948718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          89.74358974358975,
+          218.46153846153845
+        ],
+        [
+          171.2820512820513,
+          308.20512820512823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          124.10256410256412,
+          258.974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          194.8717948717949,
+          198.97435897435898
+        ],
+        [
+          216.41025641025644,
+          217.94871794871793
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          204.10256410256412,
+          207.17948717948718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          184.6153846153846,
+          5.641025641025641
+        ],
+        [
+          214.3589743589744,
+          33.333333333333336
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          200.00000000000003,
+          20.51282051282051
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\78_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

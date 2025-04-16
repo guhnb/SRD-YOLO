@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eleusine indica",
+      "points": [
+        [
+          197.94871794871798,
+          244.6153846153846
+        ],
+        [
+          342.0512820512821,
+          393.84615384615387
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          283.0769230769231,
+          355.8974358974359
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          337.43589743589746,
+          203.07692307692307
+        ],
+        [
+          375.8974358974359,
+          242.56410256410257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          357.43589743589746,
+          227.17948717948718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          293.33333333333337,
+          106.66666666666667
+        ],
+        [
+          319.48717948717945,
+          138.46153846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          306.1538461538462,
+          125.12820512820514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\70.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

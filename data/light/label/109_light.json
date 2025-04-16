@@ -1,0 +1,87 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sedge",
+      "points": [
+        [
+          427.1794871794872,
+          129.23076923076923
+        ],
+        [
+          573.3333333333334,
+          307.69230769230774
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          511.28205128205127,
+          201.53846153846152
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          327.69230769230774,
+          128.7179487179487
+        ],
+        [
+          349.7435897435897,
+          160.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          336.9230769230769,
+          142.56410256410254
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          392.8205128205128,
+          416.92307692307696
+        ],
+        [
+          484.61538461538464,
+          474.8717948717949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\109_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

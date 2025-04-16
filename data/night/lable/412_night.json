@@ -1,0 +1,40 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sedge",
+      "points": [
+        [
+          258.974358974359,
+          214.35897435897436
+        ],
+        [
+          322.56410256410254,
+          288.20512820512823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          270.76923076923083,
+          246.15384615384616
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\47.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

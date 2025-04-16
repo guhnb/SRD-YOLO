@@ -1,0 +1,40 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "purslane",
+      "points": [
+        [
+          215.3846153846154,
+          134.35897435897434
+        ],
+        [
+          366.1538461538462,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          294.35897435897436,
+          214.87179487179486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\95_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

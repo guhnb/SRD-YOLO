@@ -1,0 +1,40 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          125.12820512820514,
+          29.74358974358974
+        ],
+        [
+          186.66666666666666,
+          103.07692307692308
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          151.7948717948718,
+          64.61538461538461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\88.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

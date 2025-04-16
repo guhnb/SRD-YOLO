@@ -1,0 +1,91 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "edible amaranth",
+      "points": [
+        [
+          187.1794871794872,
+          153.84615384615384
+        ],
+        [
+          222.05128205128207,
+          189.23076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          202.05128205128207,
+          172.82051282051282
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          526.1538461538462,
+          260.0
+        ],
+        [
+          637.9487179487179,
+          434.8717948717949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          533.3333333333334,
+          138.97435897435898
+        ],
+        [
+          637.9487179487179,
+          272.3076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          474.8717948717948,
+          2.0512820512820515
+        ],
+        [
+          632.3076923076923,
+          129.74358974358972
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\93_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

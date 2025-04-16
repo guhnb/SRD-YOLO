@@ -1,0 +1,134 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          284.32291666666663,
+          204.16666666666669
+        ],
+        [
+          338.22916666666663,
+          247.39583333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          310.625,
+          216.92708333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          186.08910891089107,
+          216.73267326732673
+        ],
+        [
+          221.73267326732673,
+          246.43564356435644
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          201.43564356435644,
+          229.6039603960396
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          265.7920792079208,
+          300.3960396039604
+        ],
+        [
+          285.5940594059406,
+          331.58415841584156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          274.2079207920792,
+          316.23762376237624
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          2.9207920792079065,
+          146.43564356435644
+        ],
+        [
+          140.5445544554455,
+          297.4257425742574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "other weeds",
+      "points": [
+        [
+          535.5940594059406,
+          419.2079207920792
+        ],
+        [
+          637.5742574257425,
+          462.7722772277228
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img\\80_light.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

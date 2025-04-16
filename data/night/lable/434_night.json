@@ -1,0 +1,104 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sedge",
+      "points": [
+        [
+          366.1538461538462,
+          201.53846153846152
+        ],
+        [
+          438.46153846153845,
+          269.7435897435898
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          402.0512820512821,
+          227.69230769230768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          544.1025641025641,
+          215.89743589743588
+        ],
+        [
+          633.3333333333334,
+          408.71794871794873
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          585.6410256410256,
+          286.1538461538462
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "corn",
+      "points": [
+        [
+          75.38461538461539,
+          3.076923076923077
+        ],
+        [
+          269.7435897435897,
+          409.2307692307693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sedge",
+      "points": [
+        [
+          308.2051282051282,
+          3.076923076923077
+        ],
+        [
+          506.1538461538462,
+          162.05128205128204
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\img_night\\55.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
